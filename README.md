@@ -20,9 +20,9 @@ open [127.0.0.1:8000](127.0.0.1:8000) in your browser.
 - duplicate
 
 ### Potential Features
-- menu bar 
+- menu bar (sort, base_url, theme_selection)
 - themes (darkmode)
 - docker
 - native desktop app
-- search bar with ollama library integration
+- search bar with ollama model library integration
 - favourite models
